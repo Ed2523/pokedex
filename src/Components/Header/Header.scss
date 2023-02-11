@@ -1,0 +1,19 @@
+nav {
+  min-height: 15vh;
+  width: 60vw;
+  border-bottom: 0.1rem solid black;
+  color: white;
+  font-size: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-container {
+  width: 35%;
+  height: 15vh;
+}
+.logo {
+  width: 70%;
+  height: 100%;
+  object-fit: contain;
+}
